@@ -8,7 +8,7 @@ export default function SearchResult({results, searching}) {
           <p className="results-box-p"><span className="results-box-p-span">Name :</span> {value.name}</p>
           <p className="results-box-p"><span className="results-box-p-span">Username : </span> {value.username}</p>
           <p className="results-box-p"><span className="results-box-p-span">Email : </span> {value.email}</p>
-          <p className="results-box-p"><span className="results-box-p-span">Phone : </span>{value.phone}</p>
+          <p className="results-box-p"><span className="results-box-p-span">Phone </span>{value.phone}</p>
           </div>)
       })}
     </div>

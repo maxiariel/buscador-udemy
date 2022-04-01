@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buscador-udemy/static/css/main.140684e1.css",
+    "main.js": "/buscador-udemy/static/js/main.a1d690e7.js",
+    "static/js/787.a2fabdd7.chunk.js": "/buscador-udemy/static/js/787.a2fabdd7.chunk.js",
+    "index.html": "/buscador-udemy/index.html",
+    "main.140684e1.css.map": "/buscador-udemy/static/css/main.140684e1.css.map",
+    "main.a1d690e7.js.map": "/buscador-udemy/static/js/main.a1d690e7.js.map",
+    "787.a2fabdd7.chunk.js.map": "/buscador-udemy/static/js/787.a2fabdd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.140684e1.css",
+    "static/js/main.a1d690e7.js"
+  ]
+}
